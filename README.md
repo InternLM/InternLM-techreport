@@ -41,28 +41,28 @@ include all subjects of the college entrance exam. It provide different types
 of questions, including multiple-choices, blank filling, and QA.
 For conciseness, we call this benchmark simply as **Gaokao**.
 
-![Exam benchmarks](https://github.com/InternLM/InternLM-techreport/assets/135397754/d27fdbca-a5bc-4c5c-a28f-a355fb31549b)
+![Exam benchmarks](images/exam.png)
 
 ### Results on MMLU
 
-![MMLU](https://github.com/InternLM/InternLM-techreport/assets/135397754/f932050f-87d8-41ef-b9e0-2c71033c9aab)
+![MMLU](images/MMLU.png)
 
 ### Results on AGIEval
 
-![AGIEval](https://github.com/InternLM/InternLM-techreport/assets/135397754/7b07efb8-7941-47da-b32b-147fae16d5b6)
+![AGIEval](images/AGIEval.png)
 
 ### Results on C-Eval
 
 C-Eval has a [live leaderboard](https://cevalbenchmark.com/static/leaderboard.html). Below is a screenshot that shows all
 the results (as of 2023-06-01).
 
-![C-Eval leaderboard](https://github.com/InternLM/InternLM-techreport/assets/135397754/3e9158a6-60b9-45e1-a73f-154326094f3c)
+![C-Eval leaderboard](images/ceval-leaderboard.jpeg)
 
-![C-Eval](https://github.com/InternLM/InternLM-techreport/assets/135397754/4cc7a773-f975-4dd1-9503-4d5889b3cd28)
+![C-Eval](images/C-Eval.png)
 
 ### Results on GAOKAO-Benchmark
 
-![GAOKAO-Benchmark](https://github.com/InternLM/InternLM-techreport/assets/135397754/f2cde01e-9907-4650-9f14-e1bce9d88655)
+![GAOKAO-Benchmark](images/gaokao.png)
 
 ## Benchmarks in Specific Aspects
 
