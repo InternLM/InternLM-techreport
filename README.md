@@ -54,3 +54,20 @@ For conciseness, we call this benchmark simply as **Gaokao**.
 ### Results on GAOKAO-Benchmark
 
 ![GAOKAO-Benchmark](https://github.com/InternLM/InternLM-techreport/assets/135397754/f2cde01e-9907-4650-9f14-e1bce9d88655)
+
+## Benchmarks in Specific Aspects
+
+We also tested InternLM in comparison with others in multiple aspects:
+
+-  Knowledge QA: TriviaQA and NaturalQuestions.
+-  Reading Comprehension: RACE
+-  Chinese Understanding: CLUE and FewCLUE
+-  Mathematics: GSM8k and MATH
+-  Coding: HumanEval and MBP
+
+Please refer to our [technical report](InternLM.pdf) for detailed results.
+
+We are working on more tests, and will share new results as our work proceeds.
+
+
+
