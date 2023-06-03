@@ -49,6 +49,9 @@ For conciseness, we call this benchmark simply as **Gaokao**.
 
 ### Results on C-Eval
 
+C-Eval has a [live leaderboard](https://cevalbenchmark.com/static/leaderboard.html). Below is a screenshot that shows all
+the results (as of 2023-06-01).
+
 ![C-Eval leaderboard](https://github.com/InternLM/InternLM-techreport/assets/135397754/3e9158a6-60b9-45e1-a73f-154326094f3c)
 
 ![C-Eval](https://github.com/InternLM/InternLM-techreport/assets/135397754/4cc7a773-f975-4dd1-9503-4d5889b3cd28)
