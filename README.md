@@ -41,28 +41,28 @@ include all subjects of the college entrance exam. It provide different types
 of questions, including multiple-choices, blank filling, and QA.
 For conciseness, we call this benchmark simply as **Gaokao**.
 
-![Exam benchmarks](images/exam.png)
+![Exam benchmarks](https://internlm.oss-cn-shanghai.aliyuncs.com/exam.png)
 
 ### Results on MMLU
 
-![MMLU](images/MMLU.png)
+![MMLU](https://internlm.oss-cn-shanghai.aliyuncs.com/MMLU.png)
 
 ### Results on AGIEval
 
-![AGIEval](images/AGIEval.png)
+![AGIEval](https://internlm.oss-cn-shanghai.aliyuncs.com/AGIEval.png)
 
 ### Results on C-Eval
 
 C-Eval has a [live leaderboard](https://cevalbenchmark.com/static/leaderboard.html). Below is a screenshot that shows all
 the results (as of 2023-06-01).
 
-![C-Eval leaderboard](images/ceval-leaderboard.jpeg)
+![C-Eval leaderboard](https://internlm.oss-cn-shanghai.aliyuncs.com/ceval-leaderboard.jpeg)
 
-![C-Eval](images/C-Eval.png)
+![C-Eval](https://internlm.oss-cn-shanghai.aliyuncs.com/C-Eval.png)
 
 ### Results on GAOKAO-Benchmark
 
-![GAOKAO-Benchmark](images/gaokao.png)
+![GAOKAO-Benchmark](https://internlm.oss-cn-shanghai.aliyuncs.com/gaokao.png)
 
 ## Benchmarks in Specific Aspects
 
