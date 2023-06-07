@@ -1,6 +1,6 @@
 # InternLM
 
-InternLM is a multilingual large language model jointly developed by Shanghai AI Lab and SenseTime (with equal contribution), in collaboration with the Chinese University of Hong Kong, Fudan University, and Shanghai Jiaotong University. 
+[InternLM](https://internlm.org) is a multilingual large language model jointly developed by Shanghai AI Lab and SenseTime (with equal contribution), in collaboration with the Chinese University of Hong Kong, Fudan University, and Shanghai Jiaotong University. 
 
 **Technical report**: [[PDF]](InternLM.pdf)
 
