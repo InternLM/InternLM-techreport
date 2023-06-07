@@ -80,5 +80,16 @@ Please refer to our [technical report](InternLM.pdf) for detailed results.
 
 We are working on more tests, and will share new results as our work proceeds.
 
+## Citation
 
+You can cite this technical report like this:
+
+```BibTeX
+@misc{2023internlm,
+    title={InternLM: A Multilingual Language Model with Progressively Enhanced Capabilities},
+    author={InternLM Team},
+    howpublished = {\url{https://github.com/InternLM/InternLM-techreport}},
+    year={2023}
+}
+```
 
